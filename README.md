@@ -1,4 +1,5 @@
-Azure deployed URL-https://witty-glacier-0ba929010.1.azurestaticapps.net/
+Azure deployed URL-https://brave-island-08a622210.1.azurestaticapps.net/
+
 A website theme
 
 Screenshots of the project with technologies used
