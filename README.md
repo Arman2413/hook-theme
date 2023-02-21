@@ -11,3 +11,8 @@ Screenshots of the project with technologies used
 
 Demonstration of the Project and technology
 
+![virtual](https://user-images.githubusercontent.com/125490548/220382926-90461a9b-9a25-44a8-b1c7-489a139584a0.JPG)
+![VM01](https://user-images.githubusercontent.com/125490548/220382985-70cca7af-2d52-4c1f-973a-19c5d2294777.JPG)
+![load balancing](https://user-images.githubusercontent.com/125490548/220383035-2407adfd-fd38-4498-8fee-9cd4426d3b5d.JPG)
+
+
