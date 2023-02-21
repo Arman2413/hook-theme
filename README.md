@@ -1,15 +1,13 @@
 
 A website theme
 
-Screenshots of the proejct with technologies used
+Screenshots of the project with technologies used
 
-![html1](https://user-images.githubusercontent.com/125490548/220142494-1d36e1d4-2495-4746-8084-979b0a13f07f.JPG)
-![html2](https://user-images.githubusercontent.com/125490548/220142543-50154570-7086-4447-817b-f7efbe3a2026.JPG)
-![html3](https://user-images.githubusercontent.com/125490548/220142604-bfdb8369-d0b8-438f-bc81-9b9d7dfb224f.JPG)
-![virtual](https://user-images.githubusercontent.com/125490548/220142673-eef829bc-2ccf-44ef-8299-b9520540a818.JPG)
-![VM01](https://user-images.githubusercontent.com/125490548/220142726-6aeca5ab-978d-4289-bdd2-cb2ee80c4721.JPG)
-![load balancing](https://user-images.githubusercontent.com/125490548/220142760-6dbfbc4b-ed9d-414e-8fce-02b05dd82551.JPG)
+![Capture1](https://user-images.githubusercontent.com/125490548/220375828-61341949-1018-44d1-a9e5-bad4c238e7ae.JPG)
+![Capture2](https://user-images.githubusercontent.com/125490548/220375880-bc8e1c69-2ec3-4657-be8c-f2581b237762.JPG)
+![Capture3](https://user-images.githubusercontent.com/125490548/220375922-be47b116-4583-4dac-aad4-5ef4f1b58e52.JPG)
+![Capture4](https://user-images.githubusercontent.com/125490548/220375948-4a255f5f-b878-4473-b1dd-50ea3ce48f9f.JPG)
 
-Demonstration of the technologies used
-https://drive.google.com/file/d/1968Ga70bjTQJXnT1unwB_Uj26MuLRUHe/view?usp=share_link
-https://drive.google.com/file/d/1EbERRX_wPdboY5ybNg85Q0DSW8EzMt6k/view?usp=share_link
+
+Demonstration of the Project and technology
+
